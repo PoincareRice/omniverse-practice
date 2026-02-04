@@ -38,3 +38,9 @@ deps/**/user.toml
 *.etli
 
 /source
+
+# Python cache (extra safety)
+__pycache__/
+
+# VSCode folder entirely
+.vscode/

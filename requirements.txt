@@ -1,0 +1,4 @@
+# conda create -n nvidia python=3.11
+# conda activate nvidia
+
+usd-core
