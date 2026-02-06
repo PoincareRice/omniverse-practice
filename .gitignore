@@ -7,6 +7,7 @@ _*/
 # Visual Studio files.
 /.vs
 **/.vscode/ipch
+.vscode
 
 # macOS files.
 .DS_Store
